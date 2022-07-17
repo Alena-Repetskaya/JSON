@@ -1,6 +1,6 @@
-
-'Repetskaya Alena Yrievna'
-'30 years old'
-'without pets'
-'I want to earn $50 000 a year'
-
+{
+  "person" : "Repetskaya Alena Yrievna",
+  "age" : 30,
+  "pets" : false,
+  "salary_year_USD" : 50000
+}
